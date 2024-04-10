@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+nav ul li:hover {
+    background-color: rgb(144, 201, 158);
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section{
+    color:rgb(28, 65, 65);
+    text-align: center;
+    text-shadow: #333;
+}
+.diagram {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+
+}
+
+h5{
+    text-align: center;
+    color:rgb(49, 51, 41)
+}
+.Hello {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+.Phone{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+.room {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+.car {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+h3{
+    color:rgb(96, 179, 107);
+    text-shadow: #333;
+}
+p{
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
